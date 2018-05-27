@@ -1,0 +1,14 @@
+{
+    "name": "spipremix/bonux",
+    "homepage": "https://contrib.spip.net/Bonux-pour-SPIP3",
+    "description": "Le plugin qui lave plus SPIP que SPIP, avec des chouettes cadeaux dedans",
+    "type": "spip-plugin",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Cédric Morin",
+            "email": "cedric@yterium.net"
+        }
+    ],
+    "require": {}
+}
